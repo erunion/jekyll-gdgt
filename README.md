@@ -17,7 +17,7 @@ The widget defaults to showing list counts next to your have, want and had tabs.
         show_list_count: false
 
 ## Author
-Jon Ursenbach
+Jon Ursenbach<br />
 jon@ursenba.ch
 
 ## License
